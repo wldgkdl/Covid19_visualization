@@ -13,15 +13,10 @@ Geopandas \
 FLASK
 
 ### Folders
-##### EDA
-With Covid19 30,000,000 record, I preprocessed data depending on our needs and reduced data size from 4GB to 3MB. \
-Also provides some exploratory data analysis. 
+EDA: With Covid19 30,000,000 record, I preprocessed data depending on our needs and reduced data size from 4GB to 3MB. Also provides some exploratory data analysis. 
 
 
-##### Live_DB_pipeline
-I reduced the original 4GB CSV file to a 3MB CVS file with data preprocessing. \
-in the future, I want to update the preprocessed CVS file automatically by getting new data from CDC developer API.
+Live_DB_pipeline: I reduced the original 4GB CSV file to a 3MB CVS file with data preprocessing. In the future, I want to update the preprocessed CVS file automatically by getting new data from CDC developer API.
 
-##### USmap_Video_visualization
-In addition to the graphical Covid19 data dashboard, I also want to provide video data visualization.
+USmap_Video_visualization: In addition to the graphical Covid19 data dashboard, I also want to provide video data visualization.
 
